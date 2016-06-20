@@ -1,7 +1,6 @@
-# RSpecRequestGen
+# SpecRequestGen
 
-Hex package that calls an API for a supplied URL and generates a Ruby RSpec
-request spec matching on the response
+**TODO: Add description**
 
 ## Installation
 
